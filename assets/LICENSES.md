@@ -3,12 +3,12 @@
 All five SVGs in this folder are self-contained. They embed the fonts, icons and character art listed below and make no network requests.
 
 ## Fonts (SIL Open Font License 1.1)
-- **Barlow Condensed** 600 and 800, `latin` subset, from the `@fontsource/barlow-condensed` npm package. Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow).
+- **Barlow Condensed** 600 and 800, `latin` subset, from the `@fontsource/barlow-condensed` npm package (also copied to `scripts/fonts/` for the daily heatmap build). Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow).
 - **JetBrains Mono** 500, `latin` subset, from the `@fontsource/jetbrains-mono` npm package. Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono).
 - Both are subsetted to basic Latin plus a few punctuation marks and embedded as base64 WOFF2, which the OFL allows.
 
 ## Brand icons (CC0 1.0)
-Simple Icons v16.36.0 (https://simpleicons.org, npm `simple-icons`): HTML5, CSS, JavaScript, TypeScript, React, Node.js, Python, SQLite, Git, Figma, Telegram, Instagram, X, Discord. Brand names and logos belong to their owners.
+Simple Icons (https://simpleicons.org, npm `simple-icons`): HTML5, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, Supabase, Prisma, Cloudflare Workers, SQLite, Git, Figma, GitHub Actions, Telegram, Instagram, X, Discord. Brand names and logos belong to their owners.
 The Adobe tools (Photoshop, Premiere Pro, After Effects, Audition) and npm, GitHub and GitLab appear as text chips only. No Adobe marks are used, because Simple Icons no longer ships them.
 
 ## Character art
